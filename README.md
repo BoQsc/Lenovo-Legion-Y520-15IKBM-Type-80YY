@@ -5,7 +5,8 @@ Personal Notes
 
 **Additional software installed.**  
 * [Lenovo Technical Support Drivers](https://pcsupport.lenovo.com/us/en/products/laptops-and-netbooks/legion-series/legion-y520-15ikbm/80yy/)
-* [Geforce Experience.](https://www.nvidia.com/en-eu/geforce/geforce-experience/)
+* [Lenovo Diagnostics Tool](https://support.lenovo.com/us/en/solutions/ht506581-lenovo-diagnostic-solutions-downloads)
+* [Geforce Experience](https://www.nvidia.com/en-eu/geforce/geforce-experience/)
 
 **Self made Tweaks.**  
 
